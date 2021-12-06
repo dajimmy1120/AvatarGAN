@@ -1,0 +1,4 @@
+# WandB
+use_wandb: True
+project: AvatarGAN
+key: b5a4f24abd42802677f4a6b8022e3e46c9128f08
